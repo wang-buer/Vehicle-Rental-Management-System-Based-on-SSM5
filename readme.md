@@ -8,7 +8,11 @@
 
 ![架构](https://www.codeshop.fun/Typora-Images/202403052256075.jpg)
 
+## 获取方式
 
+下方扫一扫关注后，后台回复关键词：**租车**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 ### 4.1 登录
 
 ![登录](https://www.codeshop.fun/Typora-Images/202403052257116.jpg)
